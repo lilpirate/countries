@@ -1,24 +1,6 @@
-#World countries in JSON, CSV and XML.
-## Countries data
-This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
+#World Countries "ISO 3166-1 alpha-2" to calling code map
 
- - name
- - top-level domain (tld)
- - code ISO 3166-1 alpha-2 (cca2)
- - code ISO 3166-1 numeric (ccn3)
- - code ISO 3166-1 alpha-3 (cca3)
- - currency code(s)
- - calling code(s)
- - capital city
- - alternative spellings
- - relevance
- - region
- - subregion
-
-Multiple values are separated by a comma.
-
-I will add the following data:
- - the country official language(s)
+## Forked from: https://github.com/mledoze/countries
 
 ## Sources
  - Wikipedia for country name, TLD, ISO codes and alternative spellings
